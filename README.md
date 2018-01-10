@@ -1,6 +1,5 @@
 Phrase-Similarity
 =================
-=================
 
 This python module uses gensim to load the pre trained word vecotrs and then compute the cosine similarity between the two phrases.
 
